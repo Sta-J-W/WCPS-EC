@@ -1,7 +1,7 @@
 clear;
 clc;
 warning off;
-run('/Users/yehanspc/Codes/rvctools/startup_rvc.m');
+run('startup_rvc.m');
 % figure;
 iteration = 1;
 ft_size = 20;
